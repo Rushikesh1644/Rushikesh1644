@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer | React | Node.js | REST APIs
 
-#🚀 About Me
+### 🚀 About Me
 
 🎓 B.Tech in Electronics & Telecommunication (CGPA: 6.65)
 
