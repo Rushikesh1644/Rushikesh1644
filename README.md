@@ -31,7 +31,8 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/rushikesh-dandekar-228326340
 
-##🛠️ Skills & Tech Stack
+## 🛠️ Skills & Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,ts,python,java,html,css,tailwind,git,github,vscode,postman" /> </p>
 
 ### 💻 Programming Languages
 
@@ -63,7 +64,7 @@ Agile / Scrum, Requirement Analysis, System Design, Development, Testing & Deplo
 
 ## 💼 Work Experience
 
-### 🏢 VM3 Tech Solutions LLP
+<!-- ### 🏢 VM3 Tech Solutions LLP
 
 Full Stack Developer (Jun 2025 – Present)
 
@@ -77,9 +78,17 @@ Designed responsive UI using Tailwind CSS
 
 Integrated frontend with backend systems
 
-Collaborated using Git & GitHub
+Collaborated using Git & GitHub -->
+### 🏢 VM3 Tech Solutions LLP
 
-## 🚀 Projects
+Full Stack Developer | Jun 2025 – Present
+
+✔️ Built scalable web applications
+✔️ Developed secure REST APIs
+✔️ Improved performance & UI responsiveness
+✔️ Worked with Git, Postman & deployment
+
+<!-- ## 🚀 Projects
 
 #🌐 Full Stack Web Application
 
@@ -95,6 +104,7 @@ Tested APIs using Postman
 
 Tech Stack:
 Node.js, Express.js, React.js, MySQL / MongoDB
+-->
 
 ### 📜 Certifications
 
@@ -110,17 +120,25 @@ Diploma (Computer Science) – Government Polytechnic Jalna (2021) – 78.91%
 
 SSC – Maharashtra State Board (2016) – 62.80%
 
-<--! 📊 GitHub Stats
+## 📊 GitHub Stats
 
-(You can add GitHub stats cards here later) -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/> </p>
 
-📬 Connect With Me
+## 📈 Activity Graph
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+## 📬 Connect With Me
 
 📧 Email: rushikeshdandekar0007@gmail.com
 
+<p align="center"> <a href="mailto:rushikeshdandekar0007@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+
 📍 Location: Pune, Maharashtra
 
-✨ This profile showcases my journey as a Full Stack Developer and my passion for building real-world scalable applications.
+⭐ “Code. Learn. Build. Repeat.”
+<!-- ✨ "This profile showcases my journey as a Full Stack Developer and my passion for building real-world scalable applications".
+-->
 <!--
 **Rushikesh1644/Rushikesh1644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
