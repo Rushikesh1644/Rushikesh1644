@@ -2,62 +2,55 @@
 
 🚀 Full Stack Developer | React | Node.js | REST APIs
 
-🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech in Electronics & Telecommunication (CGPA: 6.65)
+
 💼 Full Stack Developer @ VM3 Tech Solutions LLP
+
 🧠 Skilled in Frontend & Backend Development
+
 🌐 Experienced in building scalable web applications
-📍 Aurangabad, Maharashtra, India
+
+📍 Pune, Maharashtra, India
 
 📫 Email: rushikeshdandekar0007@gmail.com
 
-🔗 LinkedIn: (Add your link here)
+🔗 LinkedIn: https://www.linkedin.com/in/rushikesh-dandekar-228326340
 
-🛠️ Skills & Tech Stack
-💻 Programming Languages
+# 🛠️ Skills & Tech Stack
 
-Python, Java, JavaScript, TypeScript
+# 💻 Programming Languages
 
-🌐 Frontend
+Python, Java, SQL, JavaScript, TypeScript
 
-HTML5, CSS3, React.js, Next.js
-Tailwind CSS, Bootstrap
-Responsive Web Design
+# 🌐 Frontend
 
-🔧 Backend & APIs
+HTML5, CSS3, React.js, Next.js, Tailwind CSS, Bootstrap, Responsive Web Design
 
-Node.js, Express.js
-RESTful API Development
-Authentication & Authorization
-JSON Data Handling
+# 🔧 Backend & APIs
 
-🗄️ Databases
+Node.js, Express.js, RESTful API, Postman
 
-MySQL, MongoDB
-SQL Queries
+# 🗄️ Databases
 
-🎨 UI/UX
+MySQL, PostgreSQL, MongoDB
 
-UI/UX Design Principles
-Mobile-First Design
-Cross-Browser Compatibility
+# 🎨 UI/UX
 
-⚙️ Tools & Platforms
+UI/UX Design, Mobile-First Design, Cross-Browser Compatibility
 
-Git, GitHub
-Postman, Chrome DevTools
-VS Code
+# ⚙️ Tools & Platforms
 
-🔄 Methodologies
+Git, GitHub, Postman, Chrome DevTools,VS Code, XAMPP
 
-Agile / Scrum
-Requirement Analysis
-System Design
-Development, Testing & Deployment
+# 🔄 Methodologies
 
-💼 Work Experience
-🏢 VM3 Tech Solutions LLP
+Agile / Scrum, Requirement Analysis, System Design, Development, Testing & Deployment
+
+## 💼 Work Experience
+
+# 🏢 VM3 Tech Solutions LLP
 
 Full Stack Developer (Jun 2025 – Present)
 
@@ -73,8 +66,9 @@ Integrated frontend with backend systems
 
 Collaborated using Git & GitHub
 
-🚀 Projects
-🌐 Full Stack Web Application
+## 🚀 Projects
+
+#🌐 Full Stack Web Application
 
 Developed responsive UI using React.js / Next.js
 
@@ -89,13 +83,13 @@ Tested APIs using Postman
 Tech Stack:
 Node.js, Express.js, React.js, MySQL / MongoDB
 
-📜 Certifications
+# 📜 Certifications
 
 Python for Beginners – Simplilearn
 
 Front-End Developer – Simplilearn
 
-🎓 Education
+## 🎓 Education
 
 B.Tech (ENTC) – CSMSS Chh. Shahu College of Engineering, Aurangabad (2024) – CGPA: 6.65
 
@@ -103,16 +97,17 @@ Diploma (Computer Science) – Government Polytechnic Jalna (2021) – 78.91%
 
 SSC – Maharashtra State Board (2016) – 62.80%
 
-📊 GitHub Stats
+<--! 📊 GitHub Stats
 
-(You can add GitHub stats cards here later)
+(You can add GitHub stats cards here later) -->
 
 📬 Connect With Me
 
 📧 Email: rushikeshdandekar0007@gmail.com
 
-📍 Location: Aurangabad, Maharashtra
+📍 Location: Pune, Maharashtra
 
+✨ This profile showcases my journey as a Full Stack Developer and my passion for building real-world scalable applications.
 <!--
 **Rushikesh1644/Rushikesh1644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
