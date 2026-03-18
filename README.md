@@ -1,8 +1,10 @@
 ## 👋 Hi, I'm Rushikesh Dandekar
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js;Always+Learning+🚀" />
-</p>
+</p> -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+
 
 🚀 Full Stack Developer | React | Node.js | REST APIs
 
