@@ -1,5 +1,8 @@
 ## 👋 Hi, I'm Rushikesh Dandekar
 
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+
 🚀 Full Stack Developer | React | Node.js | REST APIs
 
 ### 🚀 About Me
