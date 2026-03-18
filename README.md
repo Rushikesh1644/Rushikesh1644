@@ -62,7 +62,7 @@ Git, GitHub, Postman, Chrome DevTools,VS Code, XAMPP
 Agile / Scrum, Requirement Analysis, System Design, Development, Testing & Deployment
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,ts,python,
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,ts,python   
     java,html,css,tailwind,git,github,vscode,postman" /> 
 </p>
 
@@ -88,8 +88,11 @@ Collaborated using Git & GitHub -->
 Full Stack Developer | Jun 2025 – Present
 
 ✔️ Built scalable web applications
+
 ✔️ Developed secure REST APIs
+
 ✔️ Improved performance & UI responsiveness
+
 ✔️ Worked with Git, Postman & deployment
 
 <!-- ## 🚀 Projects
