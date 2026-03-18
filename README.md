@@ -61,8 +61,16 @@ Git, GitHub, Postman, Chrome DevTools,VS Code, XAMPP
 
 Agile / Scrum, Requirement Analysis, System Design, Development, Testing & Deployment
 
-<p align="center" style="margin-top: 20px;">
+<!-- <p align="center" style="margin-top: 20px;">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,react,html,css,javascript,aws,git,github,postman" />
+</p> -->
+<p align="center">
+  <!-- First row: 8 icons -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,react,html,css,javascript" />
+</p>
+<p align="center">
+  <!-- Second row: 8 icons -->
+  <img src="https://skillicons.dev/icons?i=typescript,python,java,tailwind,git,github,vscode,postman" />
 </p>
 
 ## 💼 Work Experience
