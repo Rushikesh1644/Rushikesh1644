@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Rushikesh Dandekar 👋
 
 <!--
 **Rushikesh1644/Rushikesh1644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
