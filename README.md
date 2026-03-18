@@ -18,39 +18,39 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/rushikesh-dandekar-228326340
 
-# 🛠️ Skills & Tech Stack
+##🛠️ Skills & Tech Stack
 
-# 💻 Programming Languages
+### 💻 Programming Languages
 
 Python, Java, SQL, JavaScript, TypeScript
 
-# 🌐 Frontend
+### 🌐 Frontend
 
 HTML5, CSS3, React.js, Next.js, Tailwind CSS, Bootstrap, Responsive Web Design
 
-# 🔧 Backend & APIs
+### 🔧 Backend & APIs
 
 Node.js, Express.js, RESTful API, Postman
 
-# 🗄️ Databases
+### 🗄️ Databases
 
 MySQL, PostgreSQL, MongoDB
 
-# 🎨 UI/UX
+### 🎨 UI/UX
 
 UI/UX Design, Mobile-First Design, Cross-Browser Compatibility
 
-# ⚙️ Tools & Platforms
+### ⚙️ Tools & Platforms
 
 Git, GitHub, Postman, Chrome DevTools,VS Code, XAMPP
 
-# 🔄 Methodologies
+### 🔄 Methodologies
 
 Agile / Scrum, Requirement Analysis, System Design, Development, Testing & Deployment
 
 ## 💼 Work Experience
 
-# 🏢 VM3 Tech Solutions LLP
+### 🏢 VM3 Tech Solutions LLP
 
 Full Stack Developer (Jun 2025 – Present)
 
@@ -83,7 +83,7 @@ Tested APIs using Postman
 Tech Stack:
 Node.js, Express.js, React.js, MySQL / MongoDB
 
-# 📜 Certifications
+### 📜 Certifications
 
 Python for Beginners – Simplilearn
 
