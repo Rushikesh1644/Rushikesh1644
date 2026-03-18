@@ -4,8 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js;Always+Learning+🚀" />
 </p> --><h2 align="center">👋 Hello, I'm Rushikesh!</h2>
 
+<h2 align="center">👨‍💻 Hello World!</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
 
