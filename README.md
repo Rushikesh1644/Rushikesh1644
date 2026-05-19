@@ -142,7 +142,8 @@ SSC – Maharashtra State Board (2016) – 62.80%
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Rushikesh1644&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh1644&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em"
   />
 </p>
 
