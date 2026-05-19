@@ -146,6 +146,11 @@ SSC – Maharashtra State Board (2016) – 62.80%
     height="180em"
   />
 </p>
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushikesh1644&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 📬 Connect With Me
 
