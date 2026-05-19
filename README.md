@@ -157,9 +157,6 @@ SSC – Maharashtra State Board (2016) – 62.80%
 📧 Email: rushikeshdandekar0007@gmail.com
 
 <p align="center"> <a href="mailto:rushikeshdandekar0007@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-<a href="https://github.com/Rushikesh1644">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 📍 Location: Pune, Maharashtra
 
