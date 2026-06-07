@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js;REST+API'S;Always+Learning+🚀" />
 </p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rushikesh1644&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 <!-- <h2 align="center">👋 Hello, I'm Rushikesh!</h2> -->
 
 <!-- <h2 align="center">👨‍💻 Hello World!</h2> -->
@@ -13,7 +16,7 @@
 
 
 
-// 🚀 Full Stack Developer | React | Node.js | REST APIs
+<!-- 🚀 Full Stack Developer | React | Node.js | REST APIs -->
 
 ### 🚀 About Me
 
@@ -151,6 +154,14 @@ SSC – Maharashtra State Board (2016) – 62.80%
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rushikesh1644&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+<!-- ## Profile View -->
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rushikesh1644&label=Visitors&color=blueviolet&style=for-the-badge" alt="visitor counter" />
+</p> -->
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rushikesh1644&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p> -->
 
 ## 📬 Connect With Me
 
